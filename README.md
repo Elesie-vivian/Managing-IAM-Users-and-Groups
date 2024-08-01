@@ -29,3 +29,4 @@ We proceeded to test the attached Permission logging in as Dolly with the log in
 Attempts to access resources on IAM returned “Access Denied to perform function. No identity-based policy allows the action”.
 However, I am able to read resources on IAM but can’t perform any additional actions.
 This further demonstrates the role played by IAM in ensuring security of resources on AWS as it showcases how permissions define the actions performed by a user.
+# Managing-IAM-Users-and-Groups
