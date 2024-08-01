@@ -1,0 +1,4 @@
+This Project explores creating and Managing IAM Users ang Groups in AWS.
+We will create IAM Users and configure access types and Permissions.
+We will Create Groups and attach policies to define permissions in the Group
+Also, add Users to the Group and assisgn IAM_ViEW_ONLY permissions to the User created.
